@@ -2,7 +2,6 @@
 
 Bug Tracker is your go-to solution for efficient ticket management, designed to streamline your project workflows and enhance team collaboration. With Bug Tracker, you can effortlessly create, assign, and track tickets across various projects, ensuring nothing falls through the cracks. 
 <br> **Live Link -** https://bug-tracker-orange.vercel.app
-<br> **Frontend Code -** https://github.com/arsh-meharwal/bug-tracker-app-frontend
 
 
 # Key Features:
